@@ -1,0 +1,26 @@
+body {
+    background-image: url("portfolioImage3.jpg");
+    background-size: cover;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 15%;
+}
+
+#btn {
+    padding: 1.1rem;
+    border-radius: 1rem;
+    width: 200px;
+    font-size: 1.5rem;
+}
+
+#btn:hover {
+    background: rgb(21, 35, 104);   
+}
+
+.increment-btn {
+    background: darkred;
+}
+
+.save-btn {
+    background: darkgreen;
+}
